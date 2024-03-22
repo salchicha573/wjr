@@ -1,0 +1,14 @@
+body {
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-image: url("/Users/dadysson/Downloads/nevado.jpeg");
+    
+}
+
+body{background-color:#467f67e5;}
+            h1{font-family: Georgia, 'Times New Roman', Times, serif;font-size:36px}
+            p{padding: 15px;font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            background-color: #b2b0a6; font-size:30px;text-align:justify ;fil}
+            img{opacity: 90; width: 200px; height: 200px; border-radius: 10%;}
+
+            
